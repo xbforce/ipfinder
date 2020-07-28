@@ -1,4 +1,8 @@
 # ipfinder
 A short bash script to find IP addresses of target domains.
 
-Https://twitter.com/xbforce
+Usage:
+```$ ./ipfinder.sh subdomains.txt```
+
+https://github.com/xbforce
+https://twitter.com/xbforce
